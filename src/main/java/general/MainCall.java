@@ -39,7 +39,7 @@ public class MainCall {
     public final static DbOperation dbOp = new DbOperation();
     public final static LoginView loginView = new LoginView();
 
-    public final static Scn1Page scn2 = new Scn1Page();
+    public final static Scn1Page scn = new Scn1Page();
 
     public final static Scn3Page scn3 = new Scn3Page();
     public final static Login login = new Login();
